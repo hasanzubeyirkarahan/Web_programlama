@@ -1,0 +1,31 @@
+<?php include("components/navbar.php"); ?>
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Sayfa</title>
+
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <main class="container">
+
+        <section>
+            <h1>Hoş Geldiniz</h1>
+
+            <p>
+                Bu proje Web Teknolojileri dersi için geliştirilmiştir.
+            </p>
+
+            <img src="assets/img/profile/profil.jpg" width="300" alt="Profil Fotoğrafı">
+        </section>
+
+    </main>
+
+<?php include("components/footer.php"); ?>
+
+</body>
+</html>
