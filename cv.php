@@ -1,3 +1,4 @@
+#cv
 <?php include("components/navbar.php"); ?>
 
 <!DOCTYPE html>
